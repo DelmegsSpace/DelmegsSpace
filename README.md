@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I am Mary Magdeline Danuor👋
 
 <!--
 ![My Banner](your-image-name.png)
